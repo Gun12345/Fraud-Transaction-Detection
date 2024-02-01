@@ -2,7 +2,7 @@
 
  # Introduction
 
-This project focuses on the application of both traditional machine learning and deep learning algorithms for detecting fraudulent transactions in the financial industry. Fraudulent activities can lead to significant financial losses and damage an institution's reputation. Therefore, the development of effective fraud detection models is crucial.
+This project focuses on the application of both traditional machine learning algorithms for detecting fraudulent transactions in the financial industry. Fraudulent activities can lead to significant financial losses and damage an institution's reputation. Therefore, the development of effective fraud detection models is crucial.
 
 We have explored various machine learning models, including Random Forest, XGBoost, Logistic Regression, K-Nearest Neighbors, Naive Bayes, and deep learning models with SimpleRNN and LSTM cells. These models produce different results, and our main objective is to identify metrics that accurately assess their performance in fraud detection. Additionally, we aim to minimize false negative transactions to reduce financial losses.
 
